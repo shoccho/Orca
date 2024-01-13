@@ -1,4 +1,4 @@
-## 🚧 (PROJCET UNDER ACTIVE DEVELOPMENT) Orca is a litewieght gui made for dockerd
+## 🚧 (PROJECT UNDER ACTIVE DEVELOPMENT) Orca is a litewieght gui made for dockerd
 The goal of this application is to provide users a GUI to dockerd.
 You can only install docker engine and not the docker desktop and this app can help you utilize docker via gui.
 
