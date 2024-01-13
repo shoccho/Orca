@@ -12,6 +12,9 @@ Orca is not meant to be a replacement for docker-desktop, that application is hu
 
 ## Current state:
 This app currently only shows the docker images found on host machine. in this case I am developing on windows and docker engine is running inside wsl. the docker daemon is configured to expect tcp connections on port `2375` so by doing REST API calls to `localhost:2375` we can communicate with dockerd from windows system. note wsl needs to be running otherwise the app will crash.
+Here is an example screenshot of the app displaying the docker images
+![image](https://github.com/shoccho/Orca/assets/33720947/a4cd5e03-0d9c-4eb3-8fd1-7734d132b7b0)
+
 
 ## To run this:
 ### Windows:
